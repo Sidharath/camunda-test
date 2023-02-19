@@ -9,7 +9,7 @@
     <spring-boot.version>2.6.6</spring-boot.version>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-  </properties>
+  </properties> 
   
   <dependencyManagement>
     <dependencies>
